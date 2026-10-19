@@ -1,0 +1,15 @@
+{
+  "version": "1.27.1",
+  "siteUrl": "https://altgpu-schedule.vercel.app",
+  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.27.1/altgpu-schedule.apk",
+  "apkUrls": [
+    "https://altgpu-schedule.vercel.app/download/altgpu-schedule.apk"
+  ],
+  "sizeBytes": 3782757,
+  "notes": [
+    "Обновление из приложения работает и там, где сайт приложения недоступен: запасная копия выпусков на GitHub.",
+    "Справки из личного кабинета снова видны в профиле.",
+    "Уведомления о новых тестах Moodle (раньше приходили только о заданиях)."
+  ],
+  "updatedAt": "2026-10-19T06:05:15.455Z"
+}
