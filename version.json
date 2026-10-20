@@ -1,15 +1,13 @@
 {
-  "version": "1.28.1",
+  "version": "1.28.2",
   "siteUrl": "https://altgpu-schedule.vercel.app",
-  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.28.1/altgpu-schedule.apk",
+  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.28.2/altgpu-schedule.apk",
   "apkUrls": [
     "https://altgpu-schedule.vercel.app/download/altgpu-schedule.apk"
   ],
-  "sizeBytes": 5186229,
+  "sizeBytes": 5188348,
   "notes": [
-    "Статистика по желанию: «Помогать улучшать приложение» в Настройках. Выключена, пока вы её не включите; без ФИО, группы, оценок и местоположения.",
-    "Страница «Конфиденциальность»: что хранится на телефоне и что куда отправляется.",
-    "Убран отладочный «Пример в шторке». Если уведомления запрещены, при включении «Пары в шторке» сразу открываются их настройки."
+    "Обновление приходит с сайта приложения, даже если провайдер заблокировал адрес сайта, который выдал DNS: приложение само пробует другие адреса того же сайта и проверяет его сертификат."
   ],
-  "updatedAt": "2026-10-20T11:16:20.736Z"
+  "updatedAt": "2026-10-20T11:43:31.807Z"
 }
