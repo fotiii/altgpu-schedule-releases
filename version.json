@@ -1,13 +1,14 @@
 {
-  "version": "1.28.2",
+  "version": "1.28.3",
   "siteUrl": "https://altgpu-schedule.vercel.app",
-  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.28.2/altgpu-schedule.apk",
+  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.28.3/altgpu-schedule.apk",
   "apkUrls": [
     "https://altgpu-schedule.vercel.app/download/altgpu-schedule.apk"
   ],
-  "sizeBytes": 5188348,
+  "sizeBytes": 5189650,
   "notes": [
-    "Обновление приходит с сайта приложения, даже если провайдер заблокировал адрес сайта, который выдал DNS: приложение само пробует другие адреса того же сайта и проверяет его сертификат."
+    "«Сегодня»: расписание снова сразу под текущей парой, плитки и новости — ниже, новости компактнее.",
+    "«Настроить экран» внизу «Сегодня»: блоки можно поднять, опустить или скрыть — как удобно именно вам."
   ],
-  "updatedAt": "2026-10-20T11:43:31.807Z"
+  "updatedAt": "2026-10-20T12:20:00.114Z"
 }
