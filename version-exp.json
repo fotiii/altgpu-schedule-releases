@@ -1,14 +1,13 @@
 {
-  "version": "1.28.5",
+  "version": "1.28.6",
   "siteUrl": "https://altgpu-schedule.vercel.app",
-  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.28.5/altgpu-schedule-exp.apk",
+  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.28.6/altgpu-schedule-exp.apk",
   "apkUrls": [
     "https://altgpu-schedule.vercel.app/download/altgpu-schedule-exp.apk"
   ],
-  "sizeBytes": 5179290,
+  "sizeBytes": 5179494,
   "notes": [
-    "Moodle: исправлено «вошли, но задания не загружаются» — после входа сессия больше не теряется, а фоновые проверки не выкидывают из Moodle.",
-    "«Moodle подключён» появляется, только когда задания действительно загрузились."
+    "Moodle: плашка «Войдите в Moodle снова» больше не появляется, пока сессия на самом деле жива, и сама исчезает после первого успешного запроса."
   ],
-  "updatedAt": "2026-10-22T19:03:55.246Z"
+  "updatedAt": "2026-10-23T17:05:43.492Z"
 }
