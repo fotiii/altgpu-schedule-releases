@@ -1,14 +1,13 @@
 {
-  "version": "1.29.0",
+  "version": "1.29.1",
   "siteUrl": "https://altgpu-schedule.vercel.app",
-  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.29.0/altgpu-schedule.apk",
+  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.29.1/altgpu-schedule.apk",
   "apkUrls": [
     "https://altgpu-schedule.vercel.app/download/altgpu-schedule.apk"
   ],
-  "sizeBytes": 5355742,
+  "sizeBytes": 5356117,
   "notes": [
-    "Сроки Moodle в расписании: красная точка у дня и у пары, по предмету которой есть несданное задание или тест. В карточке пары — «Сроки в Moodle» с датой; касание открывает задание.",
-    "Срок на субботу или воскресенье отмечается в пятницу, «00:00 понедельника» — как конец воскресенья. Сроки курсов, которых нет в расписании, — только в «Заданиях»."
+    "Плашка «Ещё N пар ниже» стоит прямо над вкладками на любом телефоне (на некоторых, например Xiaomi, она висела посреди экрана) и не считает пары, которые уже видно."
   ],
-  "updatedAt": "2026-10-24T14:18:28.186Z"
+  "updatedAt": "2026-10-24T15:38:05.479Z"
 }
