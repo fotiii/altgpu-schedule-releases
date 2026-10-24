@@ -1,13 +1,15 @@
 {
-  "version": "1.28.6",
+  "version": "1.28.7",
   "siteUrl": "https://altgpu-schedule.vercel.app",
-  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.28.6/altgpu-schedule.apk",
+  "apkUrl": "https://github.com/fotiii/altgpu-schedule-releases/releases/download/v1.28.7/altgpu-schedule.apk",
   "apkUrls": [
     "https://altgpu-schedule.vercel.app/download/altgpu-schedule.apk"
   ],
-  "sizeBytes": 5179529,
+  "sizeBytes": 5180544,
   "notes": [
-    "Moodle: плашка «Войдите в Moodle снова» больше не появляется, пока сессия на самом деле жива, и сама исчезает после первого успешного запроса."
+    "Сессии Moodle и личного кабинета продлеваются и ночью: будильник раз в 25 минут срабатывает даже во сне телефона — только пока вы вошли.",
+    "Если Moodle не открыл один курс, остальные всё равно обновляются, а для этого курса остаётся прежний список. Внизу «Заданий» видно, какой курс не открылся.",
+    "Страницы Moodle загружаются по одной — на медленной мобильной сети сайт больше не сбрасывает запросы."
   ],
-  "updatedAt": "2026-10-23T17:05:39.129Z"
+  "updatedAt": "2026-10-24T08:14:29.102Z"
 }
